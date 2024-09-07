@@ -37,9 +37,9 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-1.jpg" alt="resume-first" width="400">
-  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-2.jpg" alt="resume-second" width="400">
-  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-3.jpg" alt="resume-therde" width="400">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-1.jpg" alt="resume-first" width="300">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-2.jpg" alt="resume-second" width="300">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-3.jpg" alt="resume-therde" width="300">
 
 </div>
 <br/>
