@@ -1,3 +1,11 @@
+
+#
+###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
+<!--- Profile Header --->
+
+<h3 align="center"> 😎 Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
+
+
 # 💫 About Me:
 I’m interested in Artificial Intelligence, Machine learning and Odoo development.<br><br>I’m currently working on Odoo System as well as Open Source and Freelance Projects<br><br>I’m currently learning Java script, CSS, HTML and Python.<br><br>I’m looking to collaborate on Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.<br><br>Reach me @ eldweik30@gmail.com
 
