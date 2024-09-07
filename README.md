@@ -29,4 +29,34 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdulwahab28567&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--- Resumee Render --->
+
+## 📑Resume
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-1.jpg" alt="resume-first" width="400">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-2.jpg" alt="resume-second" width="400">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-3.jpg" alt="resume-therde" width="400">
+
+</div>
+<br/>
+
+[View in Large](https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Abdel%20Wahab%20El%20Dweik-Resume-1-1.pdf)
+<br/>
+
+
+
+<!--- Contributions Snake --->
+
+#
+
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiverse01/abhiverse01/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
