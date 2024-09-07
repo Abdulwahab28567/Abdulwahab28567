@@ -1,9 +1,16 @@
 
-#
-###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
+<p align="center">For Best Viewing Experience, Switch To Dark Mode.</p>
+
+
+<p align="center">
+  <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Animated%20Logo%20500x500%20px%20(2).gif" alt="banner" style="width: 100%; height: auto;">
+</p>
+
+
+
 <!--- Profile Header --->
 
-<h3 align="center">  Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
+<h3 align="center">  | Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
 
 
 # 💫 About Me:
