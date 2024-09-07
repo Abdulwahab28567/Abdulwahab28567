@@ -3,7 +3,7 @@
 ###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
 <!--- Profile Header --->
 
-<h3 align="center"> 😎 Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
+<h3 align="center">  Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
 
 
 # 💫 About Me:
