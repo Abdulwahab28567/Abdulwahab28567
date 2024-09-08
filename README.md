@@ -58,10 +58,10 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
       <br>Flask
     </td>
     <td align="center" width="96">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="65" height="65"/>
+      <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg" alt="odoo" width="65" height="65"/>
       </a>
-      <br>GCP
+      <br>Odoo
     </td>
   </tr>
   <tr>
@@ -78,10 +78,10 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="65" height="65"/>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
       </a>
-      <br>OpenCV
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -102,22 +102,11 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
       <br>PyTorch
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="65" height="65"/>
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg" alt="odoo" width="65" height="65"/>
-      </a>
-      <br>Odoo
-    </td>
-  </tr>
 </table>
 </div>
+
+
+
 
 
 
@@ -168,3 +157,10 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
     <img alt="github-snake" src="https://github.com/abhiverse01/abhiverse01/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
+
+
+# 
+<p align="center">
+  <b><strong>&copy; Abdelwahab El-Dweik | 2024</strong></b>
+</p>
+
