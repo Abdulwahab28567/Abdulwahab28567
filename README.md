@@ -1,26 +1,49 @@
-
 <p align="center">For Best Viewing Experience, Switch To Dark Mode.</p>
+<div align="center" >
+    <h1> Hi, I'm Abdelwahab El-Dweik👋<a href="https://github.com/AYAN-IMRAN/"></h1>
+  </div>
 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Abdulwahab28567/Abdulwahab28567/blob/main/Animated%20Logo%20500x500%20px%20(2).gif" alt="banner" style="width: 100%; height: auto;">
-</p>
-
-
+</p> -->
 
 <!--- Profile Header --->
 
-<h3 align="center">  | Odoo | AI/ML | Python Dev | Data Science | NLP |  </h3>
+<!-- <h3 align="center">  | Odoo | AI/ML | Python Dev |  </h3> -->
+<p align="center">
+<a href="https://github.com/Abdulwahab28567/"><img src="https://readme-typing-svg.demolab.com/?font=arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=500&height=50&lines=Odoo+Developer;Odoo+Implementation;AI+Solutions+Provider%F0%9F%92%A1&center=true&color=f0db4f"></a><p/>
+ </div>
+  
+<img align="right" alt="Coding" width="350"  style="border-radius:20px;"
+	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<h4 align="left" style="color=EB9C00">  💫 About Me:
+ <h4>
+
+<h3 align="left">ᴀs ᴀn ᴇxᴘᴇʀɪᴇɴᴄᴇᴅ ᴏᴅᴏᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɪ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ:<br><br>
+• ᴄᴜsᴛᴏᴍɪᴢɪɴɢ ᴀɴᴅ ɪᴍᴘʟᴇᴍᴇɴᴛɪɴɢ ᴏᴅᴏᴏ sʏsᴛᴇᴍs: ᴛᴀɪʟᴏʀɪɴɢ ᴏᴅᴏᴏ ᴛᴏ ᴍᴇᴇᴛ sᴘᴇᴄɪғɪᴄ ʙᴜsɪɴᴇss ɴᴇᴇᴅs ᴀɴᴅ ɪɴᴛᴇɢʀᴀᴛɪɴɢ ɪᴛ wɪᴛʜ ᴏᴛʜᴇʀ sʏsᴛᴇᴍs.<br><br>
+• ᴍᴜᴅᴜʟᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ: ᴄʀᴇᴀᴛɪɴɢ ᴀɴᴅ ᴇɴʜᴀɴᴄɪɴɢ ᴄᴜsᴛᴏᴍ ᴍᴜᴅᴜʟᴇs wɪᴛʜɪɴ ᴛʜᴇ ᴏᴅᴏᴏ ꜰʀᴀᴍᴇᴡᴏʀᴋ.<br><br>
+• ʙᴜsɪɴᴇss ᴘʀᴏᴄᴇss ᴏᴘᴛɪᴍɪᴢᴀᴛɪᴏɴ: sᴛʀᴇᴀᴍʟɪɴɢ wᴏʀᴋᴅᴇᴇᴍs ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ ᴛᴀsᴋs ᴛᴏ ʙᴏᴏsᴛ ᴘʀᴏᴅᴜᴄᴛɪᴠɪᴛʏ.<br><br>
+• ᴅᴀᴛᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ: ʜᴀɴᴅʟɪɴɢ ᴅᴀᴛᴀ ᴍɪɢʀᴀᴛɪᴏɴs ᴀɴᴅ ᴇɴsᴜʀɪɴɢ ᴅᴀᴛᴀ ɪɴᴛᴇɢʀɪᴛʏ.<br><br>
+• ᴜsᴇʀ sᴜᴘᴘᴏʀᴛ: ᴘʀᴏᴠɪᴅɪɴɢ ᴛʀᴀɪɴɪɴɢ ᴀɴᴅ ᴏɴɢᴏɪɴɢ sᴜᴘᴘᴏʀᴛ ғᴏʀ ᴇғғᴇᴄᴛɪᴠᴇ ᴏᴅᴏᴏ ᴀᴅᴏᴘᴛɪᴏɴ.<br><br>
+• sʏsᴛᴇᴍ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ: ᴋᴇᴇᴘɪɴɢ ᴏᴅᴏᴏ ɪɴsᴛᴀʟʟᴀᴛɪᴏns ᴜᴘᴅᴀᴛᴇᴅ wɪᴛʜ ᴛʜᴇ ʟᴀᴛᴇsᴛ ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ sᴇᴄᴜʀɪᴛʏ ᴘᴀᴛᴄʜᴇs.<br><br>
+ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴅᴇvᴇʟᴏᴘɪɴɢ ᴀɪ-ᴘᴏwᴇʀᴇᴅ ᴄʜᴀᴛʙᴏᴛs, wʜɪᴄʜ ᴇɴʜᴀɴᴄᴇs ᴜsᴇʀ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛᴇs ʀᴇsᴘᴏɴsᴇs ɪɴ sᴇᴘᴀʀᴀᴛᴇ ᴘʀᴏᴊᴇᴄᴛs.<br><br>
+</h3>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<!-- 
 # 💫 About Me:
-I’m interested in Artificial Intelligence, Machine learning and Odoo development.<br><br>I’m currently working on Odoo System as well as Open Source and Freelance Projects<br><br>I’m currently learning Java script, CSS, HTML and Python.<br><br>I’m looking to collaborate on Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.<br><br>Reach me @ eldweik30@gmail.com
+I’m interested in Artificial Intelligence, Machine learning and Odoo development.<br><br>I’m currently working on Odoo System as well as Open Source and Freelance Projects<br><br>I’m currently learning Java script, CSS, HTML and Python.<br><br>I’m looking to collaborate on Python, R, Django, Flask, AI, ML, NLP, and LLM related Projects.<br><br>Reach me @ eldweik30@gmail.com -->
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abdelwahab-nasser-4022862b9) 
 
 <!--- Language and tools summary table --->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## ⚒️Languages and Tools
 
@@ -106,9 +129,10 @@ I’m interested in Artificial Intelligence, Machine learning and Odoo developme
 </div>
 
 
+<div align="center"><img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif"></div>
 
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
